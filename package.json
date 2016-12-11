@@ -15,11 +15,11 @@
     "preversion": "npm t && npm run build"
   },
   "dependencies": {
-    "babel-plugin-add-module-exports": "^0.2.1",
     "colors": "^1.1.2"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
+    "babel-plugin-add-module-exports": "^0.2.1",
     "babel-plugin-transform-object-rest-spread": "^6.16.0",
     "babel-preset-es2015": "^6.18.0"
   }
